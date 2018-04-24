@@ -11,7 +11,7 @@ npm install front-progress-bar-webpack-plugin --save-dev
 
 1. Put to webpack
 ```
-const FrontProgressBar = require('front-progress-bar-webpack-plugin/FrontProgressBar')
+const FrontProgressBar = require('front-progress-bar-webpack-plugin')
 
 // add to webpack plugins
 plugins: [
